@@ -1,8 +1,8 @@
 # Site settings
 title: "Stories from the Head of a Developer"
 description: "Original stories developed collaboratively with AI. Free to read."
-baseurl: "" # Set to "/repo-name" if not using a custom domain
-url: "" # Set to "https://yourusername.github.io" or your custom domain
+baseurl: "/unwritten" 
+url: "https://panachesoftwaredev.github.io"
 
 # Build settings
 markdown: kramdown
