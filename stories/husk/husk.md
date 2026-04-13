@@ -91,7 +91,7 @@ He nodded. There was a pause that lasted too long. She could see him looking at 
  
 "How is he?"
  
-"The same. The west field's gone. Soil's justite now." He paused again. "Are you okay?"
+"The same. The west field's gone. Just dust now." He paused again. "Are you okay?"
  
 She almost laughed. It was such a normal question, and there was no normal answer. *I'm fine, Cole. I died eighteen months ago and now I'm someone who remembers being your sister.*
  
