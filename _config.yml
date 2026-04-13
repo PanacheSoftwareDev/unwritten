@@ -1,0 +1,34 @@
+# Site settings
+title: "Stories from the Head of a Developer"
+description: "Original stories developed collaboratively with AI. Free to read."
+baseurl: "" # Set to "/repo-name" if not using a custom domain
+url: "" # Set to "https://yourusername.github.io" or your custom domain
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Minima theme configuration
+minima:
+  skin: dark
+
+# Kramdown settings for nice typography
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: none
+
+# Exclude files from the built site
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+
+# Default front matter for story pages
+defaults:
+  - scope:
+      path: "stories"
+    values:
+      layout: "story"
