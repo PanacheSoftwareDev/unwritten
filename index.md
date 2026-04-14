@@ -5,7 +5,7 @@ title: Home
 
 # Stories from the Head of a Developer
 
-I'm a software developer, not a writer. But I've carried stories in my head for years. I use AI as a collaborative partner to bring them to life — I bring the ideas, the characters, the themes, and the emotional core. The AI helps with the craft of putting words in the right order.
+I'm a software developer with over twenty years of experience. I'm not a writer. I've never trained as one, never studied creative writing, never submitted a manuscript to anyone. But I've carried stories in my head for years, ideas, characters, themes, worlds, turning them over and refining them in the background while I got on with the day job.
 
 If you want to know more about my process, read the [full story behind this project]({{ '/about/' | relative_url }}).
 
