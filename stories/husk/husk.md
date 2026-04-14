@@ -5,8 +5,6 @@ status: Draft
 description: "In a future where corporations send workers to the stars by tearing them apart and rebuilding them light-years away, one woman returns home to find out what it costs to come back."
 ---
 
-# Husk
- 
 The first thing Mara noticed was the taste. Copper and saline, like she'd bitten the inside of her cheek, except she hadn't. This mouth had never bitten anything. It was three minutes old.
  
 It had been the same the first time, waking up on the Kepler station eighteen months ago, that same metallic flood across a tongue that hadn't existed moments before. She'd panicked then. Thrashed on the table, gasped for air that her new lungs didn't yet know how to process, and a technician had pinned her shoulders down until her nervous system caught up with itself. This time she knew what was coming. That didn't make it better. Familiarity just meant she could catalogue the wrongness more precisely.

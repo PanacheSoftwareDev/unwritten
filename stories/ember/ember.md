@@ -5,8 +5,6 @@ status: Draft
 description: "At the end of all things, the last travellers gather around a dying light."
 ---
 
-# Ember
-
 It began, as it always began, with light.
 
 Not the light of memory, nor the light of dream, for dreams had ceased long before the last spiral arm unwound itself into nothing. This was simpler. Older. A warmth against the skin of the hull where no warmth had been for longer than stars had names.
