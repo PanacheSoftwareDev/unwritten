@@ -4,6 +4,9 @@ description: "Original stories developed collaboratively with AI. Free to read."
 baseurl: "/unwritten" 
 url: "https://panachesoftwaredev.github.io"
 
+header_pages:
+  - about.md
+
 # Build settings
 markdown: kramdown
 theme: minima

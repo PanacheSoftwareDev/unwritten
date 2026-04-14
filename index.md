@@ -16,3 +16,5 @@ If you want to know more about my process, read the [full story behind this proj
 - **[Husk]({{ '/stories/husk/husk.html' | relative_url }})** — *Draft* — In a future where corporations send workers to the stars by tearing them apart and rebuilding them light-years away, one woman returns home to find out what it costs to come back.
 
 - **[Ember]({{ '/stories/ember/ember.html' | relative_url }})** — *Draft* — At the end of all things, the last travellers gather around a dying light.
+
+- **[The Fidelity Problem]({{ '/stories/the_fidelity_problem/the_fidelity_problem.html' | relative_url }})** — *Draft* — A routine support call from deep space. A ship that shouldn't be flying yet. And a question about what it means to be real that neither side is ready to answer.
