@@ -4,6 +4,8 @@ title: "Husk"
 status: Draft
 description: "In a future where corporations send workers to the stars by tearing them apart and rebuilding them light-years away, one woman returns home to find out what it costs to come back."
 ---
+
+# Husk
  
 The first thing Mara noticed was the taste. Copper and saline, like she'd bitten the inside of her cheek, except she hadn't. This mouth had never bitten anything. It was three minutes old.
  
