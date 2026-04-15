@@ -16,6 +16,8 @@ But I get it, I know some people will stop reading right here, and that's comple
 
 I hope the stories speak for themselves.
 
+And I focus on short stories. I know people are using AI for novels and novella but I'm much more interested, at least for now, in short self-contained stories that focus on a specific idea or concept. However, if you read these and think that some, or all, might fit together into a larger universe, I'm not going to try and argue that.
+
 ## Why GitHub?
 
 I'm a developer. These are my tools. I want these stories to be living documents, not frozen artifacts. Traditional publishing says you write something, publish it, and that's the end. I don't work that way. Software doesn't work that way either.
