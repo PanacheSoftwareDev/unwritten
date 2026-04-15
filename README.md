@@ -32,11 +32,12 @@ You can browse the stories directly here on GitHub, or visit the companion websi
 
 ## The Stories
 
-| Story | Status | Description |
-|-------|--------|-------------|
-| [Husk](stories/husk/husk.md) | Draft | *In a future where corporations send workers to the stars by tearing them apart and rebuilding them light-years away, one woman returns home to find out what it costs to come back.* |
-| [Ember](stories/ember/ember.md) | Draft | *At the end of all things, the last travellers gather around a dying light.* |
-| [The Fidelity Problem](/stories/the_fidelity_problem/the_fidelity_problem.md) | Draft | *A routine support call from deep space. A ship that shouldn't be flying yet. And a question about what it means to be real that neither side is ready to answer.* |
+| Story | Description |
+|-------|-------------|
+| [Husk](stories/husk/husk.md) | *In a future where corporations send workers to the stars by tearing them apart and rebuilding them light-years away, one woman returns home to find out what it costs to come back.* |
+| [Ember](stories/ember/ember.md) | *At the end of all things, the last travellers gather around a dying light.* |
+| [The Fidelity Problem](/stories/the_fidelity_problem/the_fidelity_problem.md) | *A routine support call from deep space. A ship that shouldn't be flying yet. And a question about what it means to be real that neither side is ready to answer.* |
+| [The Drift](/stories/the_drift/the_drift.md) | *She has made this journey four hundred and thirty-one times. Each time, the hardest part is choosing to come back.* |
 
 ## License
 

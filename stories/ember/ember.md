@@ -1,7 +1,6 @@
 ---
 layout: story
 title: "Ember"
-status: Draft
 description: "At the end of all things, the last travellers gather around a dying light."
 ---
 
