@@ -1,6 +1,6 @@
 ---
 layout: story
-title: "The Drift"
+title: "Tern"
 description: "A pilot, a black hole, and a long quiet station waiting for no one in particular."
 ---
 
