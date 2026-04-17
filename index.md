@@ -20,3 +20,5 @@ If you want to know more about my process, read the [full story behind this proj
 - **[The Fidelity Problem]({{ '/stories/the_fidelity_problem/the_fidelity_problem.html' | relative_url }})** — A routine support call from deep space. A ship that shouldn't be flying yet. And a question about what it means to be real that neither side is ready to answer.
 
 - **[The Drift]({{ '/stories/the_drift/the_drift.html' | relative_url }})** — She has made this journey four hundred and thirty-one times. Each time, the hardest part is choosing to come back.
+
+- **[Tern]({{ '/stories/tern/tern.html' | relative_url }})** — A pilot, a black hole, and a long quiet station waiting for no one in particular.

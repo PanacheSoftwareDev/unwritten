@@ -40,6 +40,7 @@ You can browse the stories directly here on GitHub, or visit the companion websi
 | [Ember](stories/ember/ember.md) | *At the end of all things, the last travellers gather around a dying light.* |
 | [The Fidelity Problem](/stories/the_fidelity_problem/the_fidelity_problem.md) | *A routine support call from deep space. A ship that shouldn't be flying yet. And a question about what it means to be real that neither side is ready to answer.* |
 | [The Drift](/stories/the_drift/the_drift.md) | *She has made this journey four hundred and thirty-one times. Each time, the hardest part is choosing to come back.* |
+| [Tern](/stories/tern/tern.md) | *A pilot, a black hole, and a long quiet station waiting for no one in particular.* |
 
 ## License
 
